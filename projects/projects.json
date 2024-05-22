@@ -2,7 +2,7 @@
   {
     "name": "BeautyBliss",
     "desc": "A cosmetic website created using HTML, CSS.",
-    "image": "https://drive.google.com/file/d/1-zMOl8oIkxNOZd1I08JOERXscpORDuGl/view?usp=sharing",
+    "imageUrl": "https://drive.google.com/file/d/1-zMOl8oIkxNOZd1I08JOERXscpORDuGl/view?usp=sharing",
     "category": "HTMLCSS",
     "links": {
       "view": "https://vinitakolambe.github.io/beautybliss/"
@@ -12,7 +12,7 @@
   {
     "name": "DreamDecor",
     "desc": "A interior design website created using HTML, CSS",
-    "image": "DreamDecor",
+    "image": "DreamDecor.jpg",
     "category": "HTMLCSS",
     "links": {
       "view": "https://vinitakolambe.github.io/DreamDecor/"
