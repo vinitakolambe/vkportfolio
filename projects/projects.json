@@ -2,7 +2,7 @@
   {
     "name": "BeautyBliss",
     "desc": "A cosmetic website created using HTML, CSS.",
-    "image": "BeautyBliss",
+    "image": "./BeautyBliss",
     "category": "HTMLCSS",
     "links": {
       "view": "https://vinitakolambe.github.io/beautybliss/"
