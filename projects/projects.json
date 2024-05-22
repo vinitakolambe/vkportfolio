@@ -1,0 +1,154 @@
+[
+  {
+    "name": "BeautyBliss",
+    "desc": "A cosmetic website created using HTML, CSS.",
+    "image": "BeautyBliss",
+    "category": "HTMLCSS",
+    "links": {
+      "view": "https://vinitakolambe.github.io/beautybliss/"
+      
+    }
+  },
+  {
+    "name": "DreamDecor",
+    "desc": "A interior design website created using HTML, CSS",
+    "image": "DreamDecor",
+    "category": "HTMLCSS",
+    "links": {
+      "view": "https://vinitakolambe.github.io/DreamDecor/"
+      
+    }
+  },
+  {
+    "name": "CoffeeCafe",
+    "desc": "A coffee website created using HTML, CSS. ",
+    "image": "CoffeeCafe",
+    "category": "HTMLCSS",
+    "links": {
+      "view": "https://vinitakolambe.github.io/coffeecafe/"
+      
+    }
+  },
+  {
+    "name": "Zomato-clone",
+    "desc": "A clone of zomato website created using HTML, CSS.",
+    "image": "Zomato-clone",
+    "category": "HTMLCSS",
+    "links": {
+      "view": " https://vinitakolambe.github.io/zomato-clone1/"
+      
+    }
+  },
+  {
+    "name": "GreenGlory",
+    "desc": "A plant selling website created using HTML, CSS.",
+    "image": "GreenGlory",
+    "category": "HTMLCSS",
+    "links": {
+      "view": "https://vinitakolambe.github.io/greenglory/"
+      
+    }
+  },
+  {
+    "name": "Double Exposure - Photoshop",
+    "desc": "Typography and double exposure in photoshop",
+    "image": "psd1",
+    "category": "photoshop",
+    "links": {
+      "view": "https://drive.google.com/file/d/1D_qGpVcq0wRC37Z0jZnMCoX9H0NncDBM/view?usp=sharing"
+     
+    }
+  },
+  {
+    "name": "Illustration - Illustrator",
+    "desc": "Project on effects using Illustrator",
+    "image": "illu1",
+    "category": "Illustrator",
+    "links": {
+      "view": "https://drive.google.com/file/d/13-iQvh5GalaI2UtqrH-YK95tSQvlpDHh/view?usp=sharing"
+      
+    }
+  },
+  {
+    "name": "Landing Page - AdobeXD",
+    "desc": "Landing Page Project usign AdobeXD",
+    "image": "imocha-landingpage",
+    "category": "AdobeXD",
+    "links": {
+      "view": "https://drive.google.com/file/d/15loyIOXY1Q3qiQdOKsqM3clTbiU0FdnN/view?usp=sharing"
+      
+    }
+  },
+  {
+    "name": "Cake app screen - AdobeXD",
+    "desc": "Cake app screen design usign AdobeXD",
+    "image": "cake-app",
+    "category": "AdobeXD",
+    "links": {
+      "view": "https://drive.google.com/file/d/1X5dAEy1hBPWztySVV9_n3gItcxBwfS6x/view?usp=sharing"
+      
+    }
+  },
+  {
+    "name": "Skincare branding - Figma & Canva",
+    "desc": "A post design created using figma, canva.",
+    "image": "skincarebranding",
+    "category": "Figma",
+    "links": {
+      "view": " https://drive.google.com/file/d/19syZQ24-Wng-jHXD6B4lW4TgirgjeUn3/view?usp=sharing"
+      
+    }
+  },
+  {
+    "name": "mockup - Figma",
+    "desc": "Project of mockup using Figma",
+    "image": "figma-mockup-1",
+    "category": "Figma",
+    "links": {
+      "view": "https://drive.google.com/file/d/1X4EOZ02YoswfJ0rrCA3RVhbQrp5lJUjd/view?usp=sharing"
+      
+    }
+  },
+  {
+    "name": "marketing landingpage - Figma",
+    "desc": "Project of marketing landing page using Figma",
+    "image": "marketing landingpage",
+    "category": "Figma",
+    "links": {
+      "view": "https://drive.google.com/file/d/10sB5CHdrh45UDHthcLTb9fSJB_g203S_/view?usp=sharing"
+      
+    }
+  },       
+
+  
+  {
+    "name": "Flyer - Canva",
+    "desc": "A flyer design created using canva",
+    "image": "Flyer",
+    "category": "Canva",
+    "links": {
+      "view": "https://drive.google.com/file/d/1hOyd66zvRi15LNFLwh4CSkJhL1wcTsFc/view?usp=sharing"
+      
+    }
+  },
+  {
+    "name": "Post Design - Canva",
+    "desc": "A post designs created using canva",
+    "image": "postdesign",
+    "category": "Canva",
+    "links": {
+      "view": "https://drive.google.com/file/d/1pWTa9QoWAFlqlSAZARuHXZy9TTtUCZfe/view?usp=sharing"
+      
+    }
+  },
+  {
+    "name": "Logo mockup - Canva",
+    "desc": "A logo designs created using canva",
+    "image": "logomockup",
+    "category": "Canva",
+    "links": {
+      "view": "https://drive.google.com/file/d/15qY01Ahh8b9u0urCykMZIo551cAf3cnA/view?usp=sharing"
+      
+    }
+  }
+]
